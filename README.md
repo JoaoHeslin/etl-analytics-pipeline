@@ -1,4 +1,4 @@
-```markdown
+
 # ⚡ ELETROTECH — Pipeline de Dados com Python, MySQL e Power BI
 
 Este projeto demonstra uma pipeline completa de dados, da ingestão à visualização, utilizando Python para o tratamento e carga dos dados, MySQL para o armazenamento e Power BI para a análise visual interativa.
@@ -59,7 +59,7 @@ Automatizar o fluxo de dados da empresa **ELETROTECH**, estruturando a base de i
 ```bash
 git clone https://github.com/seuusuario/eletrotech.git
 cd eletrotech
-```
+
 
 2. **Instale os requisitos:**
 ```bash
@@ -113,9 +113,3 @@ pip install -r requirements.txt
 
 ---
 
-## 📩 Contato
-
-**João Heslin**  
-📧 joao.heslin@exemplo.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-```
