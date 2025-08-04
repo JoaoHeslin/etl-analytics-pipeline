@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🗃️ Modelo Relacional no MySQL
+## 🗃️ Modelo Relacional no Power BI
 
 ![Modelo Relacional](imagens/modelo_relacional.png)
 
