@@ -104,12 +104,3 @@ pip install -r requirements.txt
 - Visualização clara e interativa no Power BI.
 
 ---
-
-## 🧠 Aprendizados
-
-- Processos ETL com Python + SQL;
-- Criação dinâmica de tabelas no banco;
-- Conexão de bases relacionais com ferramentas de BI.
-
----
-
